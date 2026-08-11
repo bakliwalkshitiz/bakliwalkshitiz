@@ -1,61 +1,197 @@
-Hi, I'm Kshitiz Bakliwal 👋
-Backend Developer • Full Stack Developer • Exploring Agentic AI
+# 👋 Hi, I'm Kshitiz Bakliwal
 
-Email: kshitizbakliwal72@gmail.com
-LinkedIn: https://www.linkedin.com/in/kshitiz-bakliwal-488441249/
-GitHub: https://github.com/bakliwalkshitiz
-LeetCode: https://leetcode.com/u/Kshitiz_977/
-CodeChef: https://www.codechef.com/users/kshitiz977
-Codeforces: https://codeforces.com/profile/Kshitiz_777
-Codolio: https://codolio.com/profile/KSHITIZ
+### 🚀 Backend Developer | Full-Stack Developer | Exploring Agentic AI
 
-🚀 About Me
+📍 Computer Science Engineering Graduate  
+💻 Passionate about building scalable backend systems, full-stack applications, and AI-powered products.
 
-I am a Computer Science Engineering graduate passionate about building scalable backend systems, full-stack applications, and AI-powered products.
+---
 
-• Currently Building: Production-grade RAG platforms, multi-role web services, and LLM-powered automation workflows.
-• Exploring: Agentic AI, Model Context Protocol (MCP), Vector Search (PGVector), and Tool Calling.
-• Core Strengths: Clean backend architecture, Low-Level Design (LLD), Spring Boot, and competitive problem solving.
+## 🔗 Connect With Me
 
-🛠️ Tech Stack
+- 📧 **Email:** kshitizbakliwal72@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/kshitiz-bakliwal-488441249/
+- 💻 **GitHub:** https://github.com/bakliwalkshitiz
+- 🧑‍💻 **LeetCode:** https://leetcode.com/u/kshitiz977/
+- 🏆 **CodeChef:** https://www.codechef.com/users/kshitiz977
+- ⚔️ **Codeforces:** https://codeforces.com/profile/kshitiz_777
+- 📊 **Codolio:** https://codolio.com/profile/KSHITIZ
 
-Languages: Java, C++, JavaScript, SQL, HTML5, CSS3
-Backend & Frameworks: Spring Boot, Spring AI, Spring Security, Spring MVC, Spring Data JPA, Hibernate, REST APIs, JWT, Maven
-AI & Vector Databases: OpenAI GPT-4o, Retrieval-Augmented Generation (RAG), PGVector, Embeddings, Semantic Search, Tool Calling, Chat Memory, Structured Output
-Frontend Development: React.js, Material UI, Tailwind CSS
-Databases & Cloud: PostgreSQL, MySQL, Docker, AWS, Vercel, Render
-Developer Tools: Git, GitHub, Postman, Swagger / OpenAPI, Apache Tika, Apache PDFBox
-Core CS: Data Structures & Algorithms, Low-Level Design (LLD), OOP, SOLID Principles, Multithreading, Design Patterns
+---
 
-💼 Featured Projects
+## 👨‍💻 About Me
 
-🌐 KnowFlow AI Platform (2026)
-Live Demo: https://knowflow-ai-eight.vercel.app
-Tech Stack: Spring Boot, Spring AI, OpenAI GPT-4o, React.js, PostgreSQL, PGVector, Docker
-• Architected a full-stack RAG platform enabling conversational document Q&A, semantic search, and multi-document comparison.
-• Engineered AI capabilities including Flashcards, Mind Maps, Mermaid.js System Diagrams, Chat Memory, and Streaming Responses.
-• Containerized microservices with Docker and deployed on Render (backend) and Vercel (frontend).
+I am a **Computer Science Engineering graduate** passionate about building **scalable backend systems, full-stack applications, and AI-powered solutions**.
 
-📚 Library Management System (2026)
-Tech Stack: Java, Spring Boot, Spring Security, React.js, MySQL, OpenAI API, JWT
-• Developed a multi-portal application (Admin, Publisher, User) secured with stateless JWT authentication and role-based access control.
-• Integrated an in-browser PDF reader, OpenAI-driven book summaries, and UPI payment workflows with QR code verification.
-• Built layered REST APIs using Spring Data JPA/Hibernate with interactive Material UI analytics dashboards.
+### 🚀 Currently Building & Exploring
 
-🏡 Airbnb Backend Platform (2025)
-Tech Stack: Java, Spring Boot, Spring Security, Spring Data JPA, MySQL, JWT
-• Built scalable RESTful microservices for property listings, room availability algorithms, booking workflows, and customer management systems.
-• Configured strict Role-Based Access Control (RBAC) with stateless JWT authentication to secure operational API endpoints.
+- Production-grade **RAG platforms**
+- **Multi-role web services**
+- **LLM-powered automation workflows**
+- **Agentic AI**
+- **Model Context Protocol (MCP)**
+- **REST APIs**
+- **AI Tool Calling**
+- **Low-Level Design (LLD)**
+- **Spring Boot & Spring AI**
+- Competitive Programming
 
-🏗️ Low-Level Design (LLD) Systems (2025)
-Tech Stack: Java, Object-Oriented Programming, SOLID Principles
-• ATM Cash Dispenser System: Implemented modular architecture using State and Strategy design patterns.
-• Payment Gateway Engine: Modeled transactional entities leveraging Factory and Observer design patterns.
+### 💡 Core Strengths
 
-🏆 Achievements & Competitive Programming
+- Backend Architecture
+- REST API Development
+- Spring Boot & Spring AI
+- AI/RAG Applications
+- Database Design
+- Low-Level Design
+- Problem Solving
 
-• Solved 500+ Data Structures & Algorithms problems across LeetCode, CodeChef, and Codeforces (Focus: Trees, Graphs, DP).
-• CodeChef 2-Star Programmer (Peak Rating: 1450 | DSA Specialty Rating: 1700).
-• Secured Global Rank 658 in CodeChef Starters 243.
-• NPTEL Silver & Elite Certification in Cloud Computing.
-• NPTEL Bronze & Elite Certification in Computer Organization & Architecture.
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+`Java` `C++` `JavaScript` `SQL` `HTML` `CSS`
+
+### Backend & Frameworks
+`Spring Boot` `Spring AI` `Spring Security` `Spring MVC`  
+`Spring Data JPA` `Hibernate` `REST APIs` `JWT` `Maven`
+
+### AI & Vector Search
+`OpenAI GPT-4o` `RAG` `PGVector` `Embeddings`  
+`Semantic Search` `Tool Calling` `Chat Memory` `Structured Output`
+
+### Frontend
+`React.js` `Material UI` `Tailwind CSS`
+
+### Databases & Cloud
+`PostgreSQL` `MySQL` `Docker` `AWS`
+
+### Developer Tools
+`Git` `GitHub` `Swagger` `Postman` `Vercel` `Render`  
+`Apache Tika` `Apache PDFBox`
+
+### Core Computer Science
+`Data Structures & Algorithms` `OOP` `LLD` `SOLID Principles`  
+`Multithreading` `Design Patterns`
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 KnowFlow AI Platform
+
+**Spring Boot • Spring AI • GPT-4o • React.js • PostgreSQL • PGVector • Docker**
+
+🔗 **Live Demo:** https://knowflow-ai-eight.vercel.app/
+
+A full-stack **RAG-based knowledge management platform** for contextual document interaction and AI-powered knowledge discovery.
+
+### Key Features
+
+- Built a **RAG pipeline** using **Spring AI, PGVector, and OpenAI GPT-4o**
+- Contextual **document Q&A**
+- **Semantic search**
+- Multi-document comparison
+- AI-generated **Flashcards**
+- AI-generated **Mind Maps**
+- **Mermaid.js system design diagrams**
+- **Chat Memory**
+- Real-time **streaming responses**
+- Secured REST APIs using **Spring Security + JWT**
+- Containerized backend services using **Docker**
+- Deployed backend on **Render** and frontend on **Vercel**
+
+---
+
+## 📚 Library Management System
+
+**Java • Spring Boot • Spring Security • React.js • MySQL • OpenAI • JWT**
+
+A full-stack library management platform with role-based access and AI-powered reading assistance.
+
+### Key Features
+
+- Multi-role portals for **Admin, Publisher, and User**
+- Stateless **JWT authentication**
+- Role-Based Access Control
+- In-browser **PDF Reader**
+- OpenAI-powered **book summaries and Q&A**
+- **UPI payment integration** with QR verification
+- Layered backend architecture
+- **Spring Data JPA / Hibernate**
+- DTO pattern
+- Global exception handling
+- Interactive **Material UI dashboards**
+
+---
+
+## 🏠 Airbnb Backend Platform
+
+**Java • Spring Boot • Spring Security • Spring Data JPA • MySQL • JWT**
+
+A scalable backend platform for property listings and booking workflows.
+
+### Key Features
+
+- REST APIs for property listings
+- Room availability algorithms
+- Booking workflows
+- Customer management
+- **Role-Based Access Control (RBAC)**
+- Stateless **JWT authentication**
+- Separate operational access for **Admins, Hosts, and Customers**
+
+---
+
+# 🏗️ Low-Level Design Projects
+
+## 🏧 ATM Cash Dispenser System
+
+**Java • OOP • SOLID • Design Patterns**
+
+- Implemented modular architecture using the **State Pattern**
+- Used **Strategy Pattern** for dynamic cash-dispensing algorithms
+- Designed the system with maintainability and extensibility in mind
+
+## 💳 Payment Gateway Engine
+
+**Java • OOP • Design Patterns**
+
+- Modeled transactional entities using the **Factory Pattern**
+- Used **Observer Pattern** for real-time customer notifications
+- Designed modular payment-processing components
+
+---
+
+# 🏆 Achievements & Competitive Programming
+
+- 🧠 **500+ DSA Problems Solved** across LeetCode, CodeChef, and Codeforces
+- ⭐ **CodeChef DSA Rating:** 1700
+- 🏆 **CodeChef Contest Rating:** 1450
+- 🌎 **Global Rank 658** in CodeChef Starters 243
+- 💻 Strong focus on **Trees, Graphs, and Dynamic Programming**
+
+---
+
+# 📜 Certifications
+
+- ☁️ **NPTEL Cloud Computing** — Silver & Elite Certification
+- 💻 **NPTEL Computer Organization & Architecture** — Bronze & Elite Certification
+
+---
+
+# 🎯 Current Focus
+
+```text
+Backend Engineering
+       ↓
+Spring Boot + Spring Security
+       ↓
+Spring AI + RAG
+       ↓
+LLM Applications
+       ↓
+Agentic AI + Tool Calling
+       ↓
+Scalable Distributed Systems
